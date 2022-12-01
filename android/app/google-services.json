@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517762064365",
+    "project_id": "emailpasswordauth-bc0bd",
+    "storage_bucket": "emailpasswordauth-bc0bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517762064365:android:d096c7cf5aa80fe94851e4",
+        "android_client_info": {
+          "package_name": "com.example.Pedagodino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517762064365-q2875dfh1pj2eph7mep12c73qgk6uh5s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Pedagodino",
+            "certificate_hash": "3735ee6813cd3bea527d20a736418d1acf49c4ec"
+          }
+        },
+        {
+          "client_id": "517762064365-55a42jkt3tt9omk6tj57sm090a5n626r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxpdSw2AGbMkkzKikqqn4crByY_bRz7EE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517762064365-55a42jkt3tt9omk6tj57sm090a5n626r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
